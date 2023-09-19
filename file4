@@ -1,0 +1,14 @@
+clone uRL
+ls
+git status
+cd dirctory name
+ls
+git status 
+touch file name
+git status 
+git add filename
+git status
+git commit -m "write in your own way"
+git status
+git log
+git push
